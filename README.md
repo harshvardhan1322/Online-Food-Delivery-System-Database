@@ -37,14 +37,14 @@ A relational database system designed using MySQL to simulate the core functiona
 
 
 ##  Features Implemented
-**User & Restaurant Management**
-**Menu creation and item search**
-**Order placement with multi-item support**
-**Delivery assignment and tracking**
-**Payment tracking (cash/card/wallet)**
-**User ratings & restaurant reviews**
-**Coupon application logic**
-**SQL views for reporting & analytics**
+- User & Restaurant Management
+- Menu creation and item search
+- Order placement with multi-item support
+- Delivery assignment and tracking
+- Payment tracking (cash/card/wallet)
+- User ratings & restaurant reviews
+- Coupon application logic
+- SQL views for reporting & analytics
 
 ##  Advanced SQL Used
 
