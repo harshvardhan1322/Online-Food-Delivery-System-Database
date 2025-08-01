@@ -48,19 +48,19 @@ A relational database system designed using MySQL to simulate the core functiona
 
 ##  Advanced SQL Used
 
-Normalization (up to 3NF)
-Complex JOINs and subqueries
-Views (e.g., `top_restaurants`, `order_summary`)
-Stored Procedures (e.g., `assign_delivery_agent()`)
-Triggers (e.g., auto-update delivery status)
-Transactions (for order + payment consistency)
-Indexing for fast lookup (`restaurant_id`, `order_id`, etc.)
+- Normalization (up to 3NF)
+- Complex JOINs and subqueries
+- Views (e.g., `top_restaurants`, `order_summary`)
+- Stored Procedures (e.g., `assign_delivery_agent()`)
+- Triggers (e.g., auto-update delivery status)
+- Transactions (for order + payment consistency)
+- Indexing for fast lookup (`restaurant_id`, `order_id`, etc.)
 
 # Technologies Used
-Database: MySQL 8.0
-Modeling Tool: dbdiagram.io / draw.io
-Data Access: MySQL Workbench / phpMyAdmin
-(Optional) Flask / PHP frontend or Power BI dashboard for visualization
+- Database: MySQL 8.0
+- Modeling Tool: dbdiagram.io / draw.io
+- Data Access: MySQL Workbench / phpMyAdmin
+- (Optional) Flask / PHP frontend or Power BI dashboard for visualization
 
 # How to Use
 - Clone the repository
@@ -70,12 +70,12 @@ Data Access: MySQL Workbench / phpMyAdmin
 - Use queries.sql to test functionality
 
 # Future Enhancements
-User authentication system (via PHP or Flask)
-Real-time order tracking dashboard
-Business analytics dashboard using Power BI
-Frontend integration with mobile UI mockups
+- User authentication system (via PHP or Flask)
+- Real-time order tracking dashboard
+- Business analytics dashboard using Power BI
+- Frontend integration with mobile UI mockups
 
 # Author
-[Your Name]
-📧 [Your Email]
+- Harshvardhan Singh Shekhawat
+- harshvardhanss1433@gmail.com
 
