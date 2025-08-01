@@ -16,7 +16,7 @@ A relational database system designed using MySQL to simulate the core functiona
 
 ##  Entity-Relationship Diagram
 
-📎 *[online_food_delivery_er](https://github.com/user-attachments/assets/8fb16b83-e945-447e-9aaf-e2f0d87bbd76)
+📎 *![online_food_delivery_er](https://github.com/user-attachments/assets/8fb16b83-e945-447e-9aaf-e2f0d87bbd76)
 *
 
 ---
