@@ -36,7 +36,7 @@ A relational database system designed using MySQL to simulate the core functiona
 | `coupons` | Discount offers with usage constraints |
 
 
-## ⚙ Features Implemented
+##  Features Implemented
 **User & Restaurant Management**
 **Menu creation and item search**
 **Order placement with multi-item support**
