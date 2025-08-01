@@ -62,6 +62,15 @@ A relational database system designed using MySQL to simulate the core functiona
 - Data Access: MySQL Workbench / phpMyAdmin
 - (Optional) Flask / PHP frontend or Power BI dashboard for visualization
 
+├── schema.sql             # Full SQL schema (CREATE TABLEs)
+├── sample_data.sql        # Insert queries for testing
+├── views_and_procedures.sql # Stored procedures and views
+├── triggers.sql           # Triggers for automation
+├── queries.sql            # Sample queries and test cases
+├── ER_diagram.png         # Entity-Relationship diagram
+└── README.md              # Project documentation
+
+
 # How to Use
 - Clone the repository
 - Import schema.sql into your MySQL server
