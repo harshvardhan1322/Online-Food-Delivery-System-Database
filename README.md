@@ -1,4 +1,3 @@
-
 #  Online Food Delivery System Database (Zomato/UberEats Clone)
 
 A relational database system designed using MySQL to simulate the core functionalities of an online food delivery platform like Zomato or Uber Eats. This project focuses on managing users, restaurants, menus, orders, deliveries, and payments — with support for real-time order tracking and performance optimization using SQL best practices.
@@ -16,7 +15,7 @@ A relational database system designed using MySQL to simulate the core functiona
 
 ##  Entity-Relationship Diagram
 
-📎 *![online_food_delivery_er](https://github.com/user-attachments/assets/8fb16b83-e945-447e-9aaf-e2f0d87bbd76)
+
 *
 
 ---
