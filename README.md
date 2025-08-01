@@ -63,11 +63,11 @@ Data Access: MySQL Workbench / phpMyAdmin
 (Optional) Flask / PHP frontend or Power BI dashboard for visualization
 
 # How to Use
---Clone the repository
--- Import schema.sql into your MySQL server
-Run sample_data.sql to populate data
-Execute views_and_procedures.sql and triggers.sql
-Use queries.sql to test functionality
+- Clone the repository
+- Import schema.sql into your MySQL server
+- Run sample_data.sql to populate data
+- Execute views_and_procedures.sql and triggers.sql
+- Use queries.sql to test functionality
 
 # Future Enhancements
 User authentication system (via PHP or Flask)
