@@ -1,0 +1,101 @@
+menu_id,restaurant_id,item_name,price,category
+1,1,Camera Dish,303.17,Dessert
+2,1,Remember Dish,320.29,Dessert
+3,1,North Dish,288.31,Appetizer
+4,1,Money Dish,275.71,Drink
+5,1,Wife Dish,329.05,Appetizer
+6,1,Rate Dish,101.94,Drink
+7,1,City Dish,386.57,Dessert
+8,1,Finish Dish,358.41,Dessert
+9,1,Pattern Dish,365.62,Appetizer
+10,1,North Dish,212.62,Drink
+11,2,Own Dish,302.07,Main Course
+12,2,Get Dish,100.2,Main Course
+13,2,Society Dish,351.8,Appetizer
+14,2,Including Dish,115.68,Appetizer
+15,2,Media Dish,340.64,Drink
+16,2,Southern Dish,314.22,Drink
+17,2,Sort Dish,133.86,Appetizer
+18,2,Expert Dish,264.57,Dessert
+19,2,Operation Dish,208.15,Main Course
+20,2,Right Dish,167.54,Appetizer
+21,3,Physical Dish,283.03,Dessert
+22,3,Evening Dish,385.77,Drink
+23,3,Experience Dish,378.62,Appetizer
+24,3,However Dish,260.27,Appetizer
+25,3,Air Dish,113.75,Dessert
+26,3,Center Dish,117.75,Main Course
+27,3,Return Dish,307.11,Main Course
+28,3,Its Dish,343.73,Appetizer
+29,3,Very Dish,167.02,Appetizer
+30,3,Huge Dish,374.83,Drink
+31,4,Something Dish,378.67,Main Course
+32,4,Feeling Dish,303.85,Dessert
+33,4,Body Dish,262.35,Main Course
+34,4,Response Dish,255.12,Dessert
+35,4,Ground Dish,370.14,Drink
+36,4,Reach Dish,136.06,Main Course
+37,4,Ok Dish,159.87,Main Course
+38,4,Remain Dish,345.72,Appetizer
+39,4,Next Dish,329.0,Drink
+40,4,Anything Dish,320.48,Dessert
+41,5,Affect Dish,109.48,Main Course
+42,5,Bank Dish,250.08,Dessert
+43,5,Should Dish,204.98,Main Course
+44,5,Center Dish,197.34,Dessert
+45,5,Executive Dish,224.32,Drink
+46,5,Police Dish,368.05,Drink
+47,5,Collection Dish,145.04,Main Course
+48,5,Morning Dish,250.06,Drink
+49,5,Yard Dish,159.14,Dessert
+50,5,Most Dish,227.54,Main Course
+51,6,Under Dish,261.36,Dessert
+52,6,Meeting Dish,321.12,Dessert
+53,6,Right Dish,123.89,Drink
+54,6,Action Dish,321.67,Appetizer
+55,6,Support Dish,352.04,Main Course
+56,6,Stand Dish,113.78,Main Course
+57,6,Keep Dish,286.33,Appetizer
+58,6,Tonight Dish,269.06,Appetizer
+59,6,Least Dish,321.27,Drink
+60,6,In Dish,147.46,Main Course
+61,7,Interesting Dish,350.18,Appetizer
+62,7,Responsibility Dish,242.43,Appetizer
+63,7,Many Dish,160.96,Main Course
+64,7,Too Dish,357.88,Appetizer
+65,7,Life Dish,286.8,Main Course
+66,7,World Dish,203.51,Drink
+67,7,Machine Dish,294.5,Main Course
+68,7,Likely Dish,196.11,Dessert
+69,7,Majority Dish,386.51,Drink
+70,7,Shoulder Dish,231.48,Appetizer
+71,8,One Dish,122.42,Drink
+72,8,Be Dish,145.29,Drink
+73,8,Thing Dish,307.01,Dessert
+74,8,Life Dish,125.31,Main Course
+75,8,Anyone Dish,277.34,Dessert
+76,8,Job Dish,161.26,Main Course
+77,8,Smile Dish,203.88,Dessert
+78,8,Pick Dish,351.98,Drink
+79,8,Perform Dish,175.87,Appetizer
+80,8,Surface Dish,220.69,Appetizer
+81,9,Conference Dish,211.27,Appetizer
+82,9,Clear Dish,378.35,Main Course
+83,9,Stuff Dish,128.83,Main Course
+84,9,Stay Dish,353.29,Appetizer
+85,9,Bring Dish,159.25,Dessert
+86,9,Spend Dish,212.04,Appetizer
+87,9,White Dish,333.61,Drink
+88,9,Walk Dish,164.48,Drink
+89,9,Subject Dish,226.13,Main Course
+90,9,Cut Dish,393.86,Drink
+91,10,Student Dish,367.16,Dessert
+92,10,Commercial Dish,173.23,Appetizer
+93,10,Hundred Dish,298.74,Dessert
+94,10,Matter Dish,307.09,Main Course
+95,10,Behind Dish,236.71,Dessert
+96,10,Result Dish,118.82,Drink
+97,10,Hope Dish,229.62,Drink
+98,10,Health Dish,315.81,Drink
+99,10,Test Dish,161.59,Drink
+100,10,Heart Dish,386.32,Drink
