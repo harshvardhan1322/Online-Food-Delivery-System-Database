@@ -16,7 +16,8 @@ A relational database system designed using MySQL to simulate the core functiona
 ##  Entity-Relationship Diagram
 
 
-*
+*![ER Diagram](diagrams/online_food_er.jpg)
+
 
 ---
 
