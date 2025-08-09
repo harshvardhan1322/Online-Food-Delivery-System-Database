@@ -60,8 +60,7 @@ A relational database system designed using MySQL to simulate the core functiona
 # Technologies Used
 - Database: MySQL 8.0
 - Modeling Tool: dbdiagram.io / draw.io
-- Data Access: MySQL Workbench / phpMyAdmin
-- (Optional) Flask / PHP frontend or Power BI dashboard for visualization
+- Data Access: MySQL Workbench 
 
 # How to Use
 - Clone the repository
